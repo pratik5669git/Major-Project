@@ -1,0 +1,1 @@
+# paddleocr_test.py
